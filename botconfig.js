@@ -33,9 +33,9 @@ module.exports = {
     // The default one should work fine, altho if you have issue with it, you can create your own or use another public lavalink.
     Lavalink: {
         id: "Main", //- Used for indentifier. You can set this to whatever you want.
-        host: "www.lavalinknodepublic.ml", //- The host name or IP of the lavalink server.
+        host: "node1.kartadharta.xyz", //- The host name or IP of the lavalink server.
         port: 443, // The port that lavalink is listening to. This must be a number!
-        pass: "mrextinctcodes", //- The password of the lavalink server.
+        pass: "kdlavalink", //- The password of the lavalink server.
         secure: true, // Set this to true if the lavalink uses SSL. if not set it to false.
     },
 
