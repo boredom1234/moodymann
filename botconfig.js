@@ -5,7 +5,7 @@ module.exports = {
     Port: 3000, //Which port website gonna be hosted
     SupportServer: "", //Support Server Link
 
-    Token: process.env.Token || "OTQ2NDY5MTE1NDExOTc2MjEy.GJCfF6.L5mbBHGuZvdiEtO_rjG9QTtEF-4MuY4OCjzb1A", //Discord Bot Token
+    Token: process.env.Token || "OTQ2NDY5MTE1NDExOTc2MjEy.GEM7LW.dkiwfmaabqrRiAZlFHW6pY8wwQkq6f9qbc_VRU", //Discord Bot Token
     ClientID: process.env.Discord_ClientID || "946469115411976212", //Discord Client ID
     ClientSecret: process.env.Discord_ClientSecret || "l-pPpRjHCUwqwqPaSq8abg6eUCsF47OK", //Discord Client Secret
 
